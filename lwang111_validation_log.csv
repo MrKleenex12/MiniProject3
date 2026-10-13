@@ -1,5 +1,5 @@
 WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);AdjudicatedValue;KeyEvidence;Comments
-annecori_epiestim;ccoughl3;lwang111;HasRecovered;yes is has recovered;;;;;
+annecori_epiestim;ccoughl3;lwang111;HasRecovered;yes is has recovered;yes;yes;;;
 cardinalkit_cardinalkit;ccoughl3;lwang111;HasRecovered;yes has recovered;;;;;
 ceedee666_opensap_python_intro;ccoughl3;lwang111;HasRecovered;no;;;;;
 deepmind_acme;ccoughl3;lwang111;HasRecovered;yes;;;;;
@@ -9,7 +9,7 @@ numenta_nupic;ccoughl3;lwang111;HasRecovered;yes, has received two recent update
 qupath_qupath;ccoughl3;lwang111;HasRecovered;yes it has recovered;;;;;
 sem-jl_sem.jl;ccoughl3;lwang111;HasRecovered;yes has recovered;;;;;
 yulunzhang_rcan;ccoughl3;lwang111;HasRecovered;yes;;;;;
-annecori_epiestim;ccoughl3;lwang111;WhyRecovered;to fix the bug that were discovered;;;;;
+annecori_epiestim;ccoughl3;lwang111;WhyRecovered;to fix the bug that were discovered;fix bugs;yes;;;
 cardinalkit_cardinalkit;ccoughl3;lwang111;WhyRecovered;to fix bugs and add addotopma and to add features;;;;;
 ceedee666_opensap_python_intro;ccoughl3;lwang111;WhyRecovered;N/A;;;;;
 deepmind_acme;ccoughl3;lwang111;WhyRecovered;to fix errors and contiue development;;;;;
@@ -19,7 +19,7 @@ numenta_nupic;ccoughl3;lwang111;WhyRecovered;To update the code with the softwar
 qupath_qupath;ccoughl3;lwang111;WhyRecovered;to fix bugs;;;;;
 sem-jl_sem.jl;ccoughl3;lwang111;WhyRecovered;to work on other parts of the project;;;;;
 yulunzhang_rcan;ccoughl3;lwang111;WhyRecovered;to do administrative changes;;;;;
-annecori_epiestim;ccoughl3;lwang111;ActivityPattern;irregular;;;;;
+annecori_epiestim;ccoughl3;lwang111;ActivityPattern;irregular;irregular;yes;;;
 cardinalkit_cardinalkit;ccoughl3;lwang111;ActivityPattern;declining;;;;;
 ceedee666_opensap_python_intro;ccoughl3;lwang111;ActivityPattern;declining;;;;;
 deepmind_acme;ccoughl3;lwang111;ActivityPattern;declining;;;;;
@@ -29,7 +29,7 @@ numenta_nupic;ccoughl3;lwang111;ActivityPattern;declining;;;;;
 qupath_qupath;ccoughl3;lwang111;ActivityPattern;steady;;;;;
 sem-jl_sem.jl;ccoughl3;lwang111;ActivityPattern;irregular;;;;;
 yulunzhang_rcan;ccoughl3;lwang111;ActivityPattern;irregular;;;;;
-annecori_epiestim;ccoughl3;lwang111;Currentstatus;Active;;;;;
+annecori_epiestim;ccoughl3;lwang111;Currentstatus;Active;active;yes;;;
 cardinalkit_cardinalkit;ccoughl3;lwang111;Currentstatus;Active;;;;;
 ceedee666_opensap_python_intro;ccoughl3;lwang111;Currentstatus;Inactive;;;;;
 deepmind_acme;ccoughl3;lwang111;Currentstatus;Active;;;;;
@@ -39,7 +39,7 @@ numenta_nupic;ccoughl3;lwang111;Currentstatus;InActive;;;;;
 qupath_qupath;ccoughl3;lwang111;Currentstatus;Active;;;;;
 sem-jl_sem.jl;ccoughl3;lwang111;Currentstatus;Active;;;;;
 yulunzhang_rcan;ccoughl3;lwang111;Currentstatus;Inactive;;;;;
-annecori_epiestim;ccoughl3;lwang111;RecentThemes;Bug Fixes and Feature Development;;;;;
+annecori_epiestim;ccoughl3;lwang111;RecentThemes;Bug Fixes and Feature Development;fixes;yes;;;
 cardinalkit_cardinalkit;ccoughl3;lwang111;RecentThemes;Bug Fixes and Other (merges);;;;;
 ceedee666_opensap_python_intro;ccoughl3;lwang111;RecentThemes;N/A;;;;;
 deepmind_acme;ccoughl3;lwang111;RecentThemes;Feature Development;;;;;
