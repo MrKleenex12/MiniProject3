@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;100.0;100.0;1.0;1.0;0;0;Yes/No call was clear from post-gap commit counts; free-text variants ("has been updated recently", "Yes, but barely") were treated as Yes.
+WhyRecovered;60.0;100.0;NA;NA;4;4;Granularity mismatch: validator named a single commit (README, Google Drive, conflicts) while author named the broader cause. Resolved by keeping the substantive change or combining both.
+ActivityPattern;100.0;100.0;1.0;1.0;0;0;Commit plots made declining/irregular/steady shapes easy to agree on.
+Currentstatus;100.0;100.0;1.0;1.0;0;0;Only capitalization differences (InActive vs Inactive), which were not counted as disagreements.
+RecentThemes;80.0;100.0;NA;NA;2;2;Validator used labels outside the coding guide ("Conflicts", "Update readme"). Resolved by mapping them to guide themes (Other (merges), Bug fixes).

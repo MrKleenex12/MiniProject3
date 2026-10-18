@@ -1,4 +1,4 @@
-WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);AdjudicatedValue;ResolutionType(AuthorKept ValidatorKept/Compromise)	;PostDiscussAgreementstatus(Yes/No);KeyEvidence;Comments
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);AdjudicatedValue;ResolutionType(AuthorKept ValidatorKept/Compromise);PostDiscussAgreementstatus(Yes/No);KeyEvidence;Comments
 annecori_epiestim;ccoughl3;lwang111;HasRecovered;yes is has recovered;yes;yes;;;;;
 cardinalkit_cardinalkit;ccoughl3;lwang111;HasRecovered;yes has recovered;Yes, but barely;Yes;;;;;
 ceedee666_opensap_python_intro;ccoughl3;lwang111;HasRecovered;no;No;Yes;;;;;
@@ -12,13 +12,13 @@ yulunzhang_rcan;ccoughl3;lwang111;HasRecovered;yes;Yes;Yes;;;;;
 annecori_epiestim;ccoughl3;lwang111;WhyRecovered;to fix the bug that were discovered;fix bugs;yes;;;;;
 cardinalkit_cardinalkit;ccoughl3;lwang111;WhyRecovered;to fix bugs and add addotopma and to add features;Build failure Xcode 16;yes;;;;;
 ceedee666_opensap_python_intro;ccoughl3;lwang111;WhyRecovered;N/A;N/A;Yes;;;;;
-;ccoughl3;lwang111;WhyRecovered;to fix errors and contiue development;Automated Code Change;Yes;;;;;
+deepmind_acme;ccoughl3;lwang111;WhyRecovered;to fix errors and contiue development;Automated Code Change;Yes;;;;;
 hol137_jupyter-notebook-practice-physical-constants-ratios;ccoughl3;lwang111;WhyRecovered;N/A;N/A;Yes;;;;;
 lfpy_lfpy;ccoughl3;lwang111;WhyRecovered;To update a variety of things within the code;Fixes;Yes;;;;;
-numenta_nupic;ccoughl3;lwang111;WhyRecovered;To update the code with the software asteval 0.9.1 to 0.923;Update readme and MIT liscense;No;update asteval & merge;AuthorKept;Yes;;
-qupath_qupath;ccoughl3;lwang111;WhyRecovered;to fix bugs;Merges;No;Merges/Bug fixes;Compromise;Yes;;
-sem-jl_sem.jl;ccoughl3;lwang111;WhyRecovered;to work on other parts of the project;Fix conflicts;No;work on other project parts;AuthorKept;Yes;;
-yulunzhang_rcan;ccoughl3;lwang111;WhyRecovered;to do administrative changes;Update Google Drive;No;Merges/Google drive;Compromise;Yes;;
+numenta_nupic;ccoughl3;lwang111;WhyRecovered;To update the code with the software asteval 0.9.1 to 0.923;Update readme and MIT liscense;No;update asteval & merge;AuthorKept;Yes;Post-gap commits include the asteval 0.9.1 to 0.923 dependency update.;README and license edits were secondary to the dependency update.
+qupath_qupath;ccoughl3;lwang111;WhyRecovered;to fix bugs;Merges;No;Merges/Bug fixes;Compromise;Yes;Post-gap commits mix bug fixes with merge commits.;Both values were partially right.
+sem-jl_sem.jl;ccoughl3;lwang111;WhyRecovered;to work on other parts of the project;Fix conflicts;No;work on other project parts;AuthorKept;Yes;Conflict fixes were part of broader work on other project components.;Conflict fixing was a side effect of the work, not the reason for recovery.
+yulunzhang_rcan;ccoughl3;lwang111;WhyRecovered;to do administrative changes;Update Google Drive;No;Merges/Google drive;Compromise;Yes;Post-gap commits are merges and Google Drive link updates.;Google Drive updates are an example of the author's administrative changes.
 annecori_epiestim;ccoughl3;lwang111;ActivityPattern;irregular;irregular;yes;;;;;
 cardinalkit_cardinalkit;ccoughl3;lwang111;ActivityPattern;declining;declining;Yes;;;;;
 ceedee666_opensap_python_intro;ccoughl3;lwang111;ActivityPattern;declining;declining;Yes;;;;;
@@ -40,12 +40,12 @@ qupath_qupath;ccoughl3;lwang111;Currentstatus;Active;Active;Yes;;;;;
 sem-jl_sem.jl;ccoughl3;lwang111;Currentstatus;Active;Active;Yes;;;;;
 yulunzhang_rcan;ccoughl3;lwang111;Currentstatus;Inactive;Inactive;Yes;;;;;
 annecori_epiestim;ccoughl3;lwang111;RecentThemes;Bug Fixes and Feature Development;fixes;yes;;;;;
-cardinalkit_cardinalkit;ccoughl3;lwang111;RecentThemes;Bug Fixes and Other (merges);Update readme;No;merges, updates, bugs;Compromise;Yes;;
+cardinalkit_cardinalkit;ccoughl3;lwang111;RecentThemes;Bug Fixes and Other (merges);Update readme;No;merges, updates, bugs;Compromise;Yes;Recent commits include bug fixes, merges and README updates.;Combined label covers all three themes.
 ceedee666_opensap_python_intro;ccoughl3;lwang111;RecentThemes;N/A;N/A;Yes;;;;;
 deepmind_acme;ccoughl3;lwang111;RecentThemes;Feature Development;Feature Development;Yes;;;;;
 hol137_jupyter-notebook-practice-physical-constants-ratios;ccoughl3;lwang111;RecentThemes;N/A;N/A;Yes;;;;;
 lfpy_lfpy;ccoughl3;lwang111;RecentThemes;Other (merge and bump version number);Other (merge and bump version number);Yes;;;;;
 numenta_nupic;ccoughl3;lwang111;RecentThemes;N/A;N/A;Yes;;;;;
 qupath_qupath;ccoughl3;lwang111;RecentThemes;Bug Fixes and Other (merges);Bug Fixes and Other (merges);Yes;;;;;
-sem-jl_sem.jl;ccoughl3;lwang111;RecentThemes;Feature Development and Other (merges);Conflicts;No;Feature Development and Other (merges);AuthorKept;Yes;;
+sem-jl_sem.jl;ccoughl3;lwang111;RecentThemes;Feature Development and Other (merges);Conflicts;No;Feature Development and Other (merges);AuthorKept;Yes;Conflict commits are merge-related and fall under Other (merges).;"Conflicts" is not a coding guide theme.
 yulunzhang_rcan;ccoughl3;lwang111;RecentThemes;N/A;N/A;Yes;;;;;
